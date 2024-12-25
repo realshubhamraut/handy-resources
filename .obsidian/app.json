@@ -1,0 +1,15 @@
+{
+  "showInlineTitle": false,
+  "attachmentFolderPath": "attachments/Medias",
+  "showUnsupportedFiles": true,
+  "userIgnoreFilters": [
+    "attachments/Medias/"
+  ],
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "newFileFolderPath": "attachments",
+  "trashOption": "system",
+  "defaultViewMode": "preview",
+  "focusNewTab": true,
+  "showLineNumber": false
+}
