@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b460cdfb83d4ed21",
+        "id": "17e198bde9e849ea",
         "type": "tabs",
         "children": [
           {
-            "id": "3d555c79b3d8fc2d",
+            "id": "dff75c9ffbc75f66",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -188,6 +188,22 @@
   },
   "active": "30a38aa123dc8e2f",
   "lastOpenFiles": [
+    "attachments-obsidian/media/prep-removebg-preview.png",
+    "attachments-obsidian/media/Screenshot 2024-12-22 at 10.58.40 AM.png",
+    "attachments-obsidian/media/Screenshot 2024-12-22 at 1.03.04 PM.png",
+    "attachments-obsidian/media/Pasted image 20241222124800.png",
+    "attachments-obsidian/excalidraw/machine-learning-models.excalidraw.md",
+    "attachments-obsidian/excalidraw/machine learning.md",
+    "attachments-obsidian/excalidraw/datatypes-ML.excalidraw.md",
+    "attachments-obsidian/media",
+    "attachments-obsidian/excalidraw",
+    "attachments-obsidian",
+    "Drawing 2024-12-25 09.25.26.excalidraw.md",
+    "attachments/media/prep-removebg-preview.png",
+    "attachments/media/Screenshot 2024-12-22 at 10.58.40 AM.png",
+    "attachments/media/Screenshot 2024-12-22 at 1.03.04 PM.png",
+    "attachments/media/Pasted image 20241222124800.png",
+    "attachments/media",
     "README.md",
     "LICENSE",
     "0. python-sql-git-stats/1. python/2. numpy-pandas-matplotlib.ipynb",
@@ -195,16 +211,11 @@
     "0. python-sql-git-stats/1. python/1. basics.ipynb",
     "0. python-sql-git-stats/1. python/population-data.csv",
     "0. python-sql-git-stats/1. python/1. python-basics.ipynb",
-    "0. python-sql-git-stats/1. python",
-    "0. python-sql-git-stats/0. python/population-data.csv",
-    "0. python-sql-git-stats/0. python/1. python-basics.ipynb",
-    "0. python-sql-git-stats/0. python",
     "1. ML/✏️.md",
     "1. ML/ML-Explained-Visually.md",
     "attachments/Medias/Screenshot 2024-12-22 at 1.03.04 PM.png",
     "attachments/Medias/Screenshot 2024-12-22 at 10.58.40 AM.png",
     "attachments/Medias/prep-removebg-preview.png",
-    "attachments/Medias/Pasted image 20241222124800.png",
     "attachments/excalidraw/machine-learning-models.excalidraw.md",
     "2. DL/✏️.md",
     "attachments/excalidraw/datatypes-ML.excalidraw.md",
@@ -223,17 +234,6 @@
     "wow/reinforcement.md",
     "wow/Linear Regression.md",
     "attachments/excalidraw/Drawing 2024-10-14 05.23.03.excalidraw.md",
-    "8. ML/md-note/K-Means Clustering.md",
-    "8. ML/md-note/Machine Learning?.md",
-    "8. ML/md-note/Machines Learning?.md",
-    "8. ML/md-note/papernote.md",
-    "attachments/excalidraw/demo.excalidraw.md",
-    "Untitled.canvas",
-    "attachments/Medias/Screenshot 2024-10-11 at 1.34.49 PM.png",
-    "attachments/Medias/Screenshot 2024-10-14 at 12.36.25 AM.png",
-    "attachments/Medias/Screenshot 2024-10-11 at 1.30.57 PM.png",
-    "attachments/Medias/Screenshot 2024-10-11 at 1.07.29 PM 1.png",
-    "attachments/Medias/Screenshot 2024-10-11 at 1.07.29 PM.png",
-    "attachments/Medias/Pasted image 20241011131059.png 13-25-13-596.png"
+    "Untitled.canvas"
   ]
 }

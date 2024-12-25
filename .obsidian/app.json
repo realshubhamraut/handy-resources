@@ -1,9 +1,10 @@
 {
   "showInlineTitle": false,
-  "attachmentFolderPath": "attachments/Medias",
+  "attachmentFolderPath": "attachments/media",
   "showUnsupportedFiles": true,
   "userIgnoreFilters": [
-    "attachments/Medias/"
+    "attachments/Medias/",
+    "opt/"
   ],
   "alwaysUpdateLinks": true,
   "newFileLocation": "current",
