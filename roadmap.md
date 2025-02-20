@@ -1,4 +1,4 @@
-# Machine Learning Roadmap (Beginner-Friendly, Top-to-Bottom Learning Path)
+# Machine Learning
 
 ---
 
@@ -163,13 +163,13 @@
 
 ## 7. Tools and Frameworks
 - **Python Libraries**:
-  - `scikit-learn`, `TensorFlow`, `PyTorch`.
+  - `scikit-learn`, `PyTorch`.
 - **Data Manipulation**:
   - `Pandas`, `NumPy`.
 - **Visualization**:
   - `Matplotlib`, `Seaborn`.
 - **Deployment**:
-  - Flask/FastAPI, AWS/GCP/Azure.
+  - Flask/FastAPI, AWS/Azure.
 - **Resource**: [Python for Machine Learning (Coursera)](https://www.coursera.org/specializations/machine-learning)
 
 ---
